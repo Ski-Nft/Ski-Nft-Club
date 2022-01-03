@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa660559398ba509a8bbefc55555d15c9ceebcc50",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x1c5f2d008274e8a45eb2b5f7d65d6ed5f96c706c1575fd31a69cd1733c53f5d8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Ski Nft Club",
+  "SYMBOL": "sKiNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ski-nft-club",
+  "SHOW_BACKGROUND": true
+}
